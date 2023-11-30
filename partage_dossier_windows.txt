@@ -1,2 +1,9 @@
+######### Créer un dossier partager sous windows en ligne de commande
 net share MonPartage=C:\Users\Berenger\Desktop\MonPartage /grant:Berenger,full
 net share
+
+############### Suppression des dossiers partagés
+net share MonPartage /delete
+net share
+
+
