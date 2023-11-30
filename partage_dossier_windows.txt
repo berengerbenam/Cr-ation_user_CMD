@@ -1,0 +1,2 @@
+net share MonPartage=C:\Users\Berenger\Desktop\MonPartage /grant:Berenger,full
+net share
